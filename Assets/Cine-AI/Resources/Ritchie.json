@@ -1,0 +1,158 @@
+{
+  "m_categories": [
+    {
+      "m_title": "Positioning",
+      "m_defaultTechniqueTitle": "Free",
+      "m_techniques": [
+
+        {
+          "m_title": "CloseUp",
+          "m_value": 118,
+          "m_dramatization": 0.67,
+          "m_pace": 0.21
+        },
+
+        {
+          "m_title": "Godview",
+          "m_value": 7,
+          "m_dramatization": 0.32,
+          "m_pace": 0.45
+        },
+
+        {
+          "m_title": "Mastershot",
+          "m_value": 119,
+          "m_dramatization": 0.55,
+          "m_pace": 0.42
+        },
+
+        {
+          "m_title": "Pan",
+          "m_value": 72,
+          "m_dramatization": 0.587,
+          "m_pace": 0.452
+        },
+
+        {
+          "m_title": "Free",
+          "m_value": 736,
+          "m_dramatization": 0.0,
+          "m_pace": 0.0
+        }
+      ]
+    },
+
+    {
+      "m_title": "Look",
+      "m_defaultTechniqueTitle": "Stationary",
+      "m_techniques": [
+
+        {
+          "m_title": "CloseZoom",
+          "m_value": 15,
+          "m_dramatization": 0.675,
+          "m_pace": 0.125
+        },
+
+        {
+          "m_title": "DollyZoom",
+          "m_value": 7,
+          "m_dramatization": 0.857,
+          "m_pace": 0.354
+        },
+
+        {
+          "m_title": "QuickZoom",
+          "m_value": 11,
+          "m_dramatization": 0.735,
+          "m_pace": 0.345
+        },
+
+        {
+          "m_title": "Stationary",
+          "m_value": 736,
+          "m_dramatization": 0.0,
+          "m_pace": 0.0
+        }
+      ]
+
+    },
+
+    {
+      "m_title": "Track",
+      "m_defaultTechniqueTitle": "Cut",
+      "m_techniques": [
+
+        {
+          "m_title": "Cut",
+          "m_value": 895,
+          "m_dramatization": 0.0,
+          "m_pace": 0.0
+        },
+        {
+          "m_title": "PositionHandheld",
+          "m_value": 120,
+          "m_dramatization": 0.0,
+          "m_pace": 0.85
+        },
+
+        {
+          "m_title": "PositionSteadycam",
+          "m_value": 100,
+          "m_dramatization": 0.0,
+          "m_pace": 0.75
+        },
+
+        {
+          "m_title": "RotationHandheld",
+          "m_value": 69,
+          "m_dramatization": 0.0,
+          "m_pace": 0.23
+        },
+
+        {
+          "m_title": "RotationSteadycam",
+          "m_value": 95,
+          "m_dramatization": 0.0,
+          "m_pace": 0.91
+        },
+
+        {
+          "m_title": "PosRotHandheld",
+          "m_value": 50,
+          "m_dramatization": 0.0,
+          "m_pace": 0.31
+        },
+
+        {
+          "m_title": "PosRotSteadycam",
+          "m_value": 33,
+          "m_dramatization": 0.0,
+          "m_pace": 0.70
+        }
+      ]
+    },
+
+    {
+      "m_title": "FX",
+      "m_defaultTechniqueTitle": "NoFX",
+      "m_techniques": [
+
+        {
+          "m_title": "NoFX",
+          "m_value": 75,
+          "m_dramatization": 0.0,
+          "m_pace": 0.0
+        },
+
+        {
+          "m_title": "Slowmotion",
+          "m_value": 8,
+          "m_dramatization": 0.96,
+          "m_pace": 0.92
+        }
+      ]
+
+    }
+  ]
+}

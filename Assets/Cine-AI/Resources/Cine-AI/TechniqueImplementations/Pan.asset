@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab096ce632765f449288356c5f8c69c, type: 3}
+  m_Name: Pan
+  m_EditorClassIdentifier: 
+  m_editor: {fileID: 0}
+  m_distanceLB: 3
+  m_distanceUB: 6
+  m_fixedDirection: 0
+  m_isRight: 0
