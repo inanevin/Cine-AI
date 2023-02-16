@@ -1,7 +1,3 @@
 ## Cine-AI
 
-This is the repository for Cine-AI, an open-sourced procedural cinematography toolset capable of imitating real directors' styles. The repository
-contains an example Unity 3D scene with a basic cut-scene that contains multiple humanoid assets having a chat in an living-room like environment.
-Additionally, there are 2 example director data-sets for Quentin Tarantino & Guy Ritchie.
-
-One can use the Cine-AI tools & features to shoot this demo scene based on the example directors' styles.
+Cutscenes form an integral part of many video games, but their creation is costly, time-consuming, and requires skills that many game developers lack. While AI has been leveraged to semi-automate cutscene production, the results typically lack the internal consistency and uniformity in style that is characteristic of professional human directors. We overcome this shortcoming with Cine-AI, an open-source procedural cinematography toolset capable of generating in-game cutscenes in the style of eminent human directors. Implemented in the popular game engine Unity, Cine-AI features a novel timeline and storyboard interface for design-time manipulation, combined with runtime cinematography automation. Via two user studies, each employing quantitative and qualitative measures, we demonstrate that Cine-AI generates cutscenes that people correctly associate with a target director, while providing above-average usability. Our director imitation dataset is publicly available, and can be extended by users and film enthusiasts.
